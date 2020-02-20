@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    font-family: Poppins, sans-serif;
+}
+
+.content {
+    text-align: center;
+
+}
+
+.limited {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.details {
+    margin-top: -10px;
+}
+
+.link{
+ text-emphasis: none;
+ text-decoration: rgb(118, 118, 224);
+}
+
+
+
