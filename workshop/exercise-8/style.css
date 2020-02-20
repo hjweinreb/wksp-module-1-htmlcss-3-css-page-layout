@@ -9,8 +9,32 @@ body {
   justify-content: center;
 }
 
+
+
+
+
+
 .fast {
+  
+
 }
 
+
+
+
 .cool {
+  border: 1px solid blue;
+  padding: 15px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  font-size: 18px;
+  box-shadow: 5px 10px;
+  animation: 1s ease-in-out;
+  cursor: pointer;
+
+}
+
+.button:hover {
+  transform: rotate(180deg);
 }
